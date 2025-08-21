@@ -1,0 +1,101 @@
+id,titulo,categoria,ranking,likes,image
+1,Coco 3,Aventura,8.7,1395,coco.png
+2,Buscando a Nemo 5,Ciencia Ficción,9.2,989,buscandoNemo.png
+3,Jurassic Park 1,Aventura,7.3,1733,jurassicPark.png
+4,Coco 4,Fantasía,7.1,1954,coco3.png
+5,Avatar 2,Ciencia Ficción,9.0,1071,avatar.png
+6,Coco 1,Terror,9.3,1875,coco.png
+7,El Señor de los Anillos 4,Comedia,8.8,1476,señorAnillos.png
+8,Pulp Fiction 2,Comedia,8.2,1408,PulpFiction.png
+9,Rápido y Furioso 5,Romance,6.6,522,RapidoFurioso.png
+10,El Hobbit 2,Ciencia Ficción,8.3,648,ElHobbit.png
+11,Coco 2,Acción,9.2,1793,coco.png
+12,Cars 1,Romance,8.9,797,Cars.png
+13,Doctor Strange 4,Comedia,8.2,674,DoctorStrange.png
+14,Titanic 1,Suspenso,7.7,1112,Titanic.png
+15,Avengers 1,Suspenso,8.2,1396,avengers.png
+16,Jurassic Park 1,Terror,7.3,767,jurassicPark.png
+17,Forrest Gump 3,Comedia,9.3,1579,ForrestGump.png
+18,Cars 2,Acción,8.8,1469,Cars.png
+19,El Padrino 3,Aventura,7.5,1547,ElPadrino.png
+20,Buscando a Nemo 5,Romance,7.0,998,buscandoNemo.png
+21,Coco 5,Fantasía,6.6,1588,coco.png
+22,Gladiador 5,Animación,9.2,1861,gladiator.png
+23,Gladiador 5,Romance,6.8,1918,gladiator.png
+24,Moana 5,Drama,6.7,1722,Moana.png
+25,Matrix 2,Acción,6.7,903,matrix.png
+26,El Hobbit 1,Suspenso,6.5,1177,ElHobbit.png
+27,Black Panther 2,Drama,7.9,639,BlackPanther.png
+28,Frozen 1,Drama,6.5,919,frozen.png
+29,Cars 4,Ciencia Ficción,7.8,681,Cars.png
+30,Doctor Strange 1,Aventura,8.6,1074,DoctorStrange.png
+31,Inception 2,Comedia,7.2,1590,Inception.png
+32,Avengers 2,Comedia,8.1,966,avengers.png
+33,Doctor Strange 3,Ciencia Ficción,6.8,1511,DoctorStrange.png
+34,Capitán América 3,Suspenso,8.1,791,CapitánAmérica.png
+35,Toy Story 5,Ciencia Ficción,7.8,1486,ToyStory.png
+36,Toy Story 5,Fantasía,7.9,1608,ToyStory.png
+37,El Señor de los Anillos 5,Acción,7.4,1604,señorAnillos.png
+38,Gladiador 3,Animación,7.2,1804,gladiator.png
+39,Toy Story 2,Suspenso,9.4,779,ToyStory.png
+40,Gladiador 4,Acción,8.4,1944,gladiator.png
+41,Toy Story 4,Ciencia Ficción,6.8,623,ToyStory.png
+42,Matrix 4,Acción,7.3,1982,matrix.png
+43,Moana 2,Drama,7.7,538,Moana.png
+44,Iron Man 2,Comedia,7.4,1730,IronMan.png
+45,El Hobbit 3,Ciencia Ficción,8.7,1518,ElHobbit.png
+46,Inception 3,Romance,8.6,1784,Inception.png
+47,Buscando a Nemo 2,Comedia,6.7,1130,buscandoNemo.png
+48,El Hobbit 1,Ciencia Ficción,9.2,912,ElHobbit.png
+49,Misión Imposible 3,Comedia,7.0,509,mi.png
+50,Rápido y Furioso 2,Romance,7.0,1846,RapidoFurioso.png
+51,Moana 2,Terror,8.6,1597,Moana.png
+52,Misión Imposible 1,Comedia,7.0,589,mi.png
+53,Jurassic Park 5,Fantasía,6.7,1075,jurassicPark.png
+54,Iron Man 1,Suspenso,7.9,806,IronMan.png
+55,Buscando a Nemo 4,Fantasía,8.4,922,buscandoNemo.png
+56,Pulp Fiction 3,Animación,7.5,1532,PulpFiction.png
+57,Matrix 5,Fantasía,7.8,1956,matrix.png
+58,Avatar 3,Animación,8.3,1876,avatar.png
+59,Coco 5,Drama,7.3,1443,coco.png
+60,Coco 3,Acción,8.8,1083,coco.png
+61,Iron Man 5,Romance,8.5,652,IronMan.png
+62,El Hobbit 2,Comedia,6.8,793,ElHobbit.png
+63,Iron Man 4,Fantasía,7.3,1362,IronMan.png
+64,Cars 3,Suspenso,7.3,1536,Cars.png
+65,Black Panther 3,Comedia,7.5,1628,BlackPanther.png
+66,El Hobbit 5,Acción,6.7,1299,ElHobbit.png
+67,Titanic 5,Animación,7.4,1876,Titanic.png
+68,Misión Imposible 1,Romance,8.3,1928,mi.png
+69,Jurassic Park 4,Acción,6.8,1938,jurassicPark.png
+70,Buscando a Nemo 5,Animación,7.1,1014,buscandoNemo.png
+71,Matrix 5,Terror,9.0,1231,matrix.png
+72,Moana 5,Drama,8.5,1811,Moana.png
+73,Matrix 3,Acción,8.3,1707,matrix.png
+74,Cars 3,Drama,8.4,1241,Cars.png
+75,Cars 3,Acción,7.0,545,Cars.png
+76,Pulp Fiction 5,Animación,6.7,1193,PulpFiction.png
+77,Misión Imposible 4,Fantasía,9.1,1613,mi.png
+78,Jurassic Park 2,Fantasía,8.2,1503,jurassicPark.png
+79,Avatar 1,Terror,9.5,741,avatar.png
+80,Cars 2,Animación,9.2,1078,Cars.png
+81,Matrix 1,Acción,7.0,746,matrix.png
+82,Doctor Strange 3,Animación,9.4,547,DoctorStrange.png
+83,Matrix 2,Terror,6.9,783,matrix.png
+84,Inception 4,Suspenso,7.2,1930,Inception.png
+85,Buscando a Nemo 1,Animación,6.6,1177,buscandoNemo.png
+86,El Hobbit 5,Fantasía,8.1,1768,ElHobbit.png
+87,Toy Story 3,Drama,8.9,1358,ToyStory.png
+88,Inception 4,Terror,9.1,1970,Inception.png
+89,Matrix 1,Ciencia Ficción,7.6,1677,matrix.png
+90,Moana 2,Suspenso,9.1,942,Moana.png
+91,Cars 4,Drama,6.6,1601,Cars.png
+92,Rápido y Furioso 5,Animación,9.4,1894,RapidoFurioso.png
+93,Black Panther 2,Animación,7.6,1477,BlackPanther.png
+94,Toy Story 2,Fantasía,7.9,1854,ToyStory.png
+95,Toy Story 1,Aventura,6.6,1879,ToyStory.png
+96,Gladiador 2,Romance,6.7,1341,gladiator.png
+97,Pulp Fiction 3,Suspenso,7.7,1464,PulpFiction.png
+98,Buscando a Nemo 2,Animación,9.5,1868,buscandoNemo.png
+99,Misión Imposible 2,Acción,9.4,515,mi.png
+100,Interestelar 2,Romance,6.7,1891,interstelar.png
